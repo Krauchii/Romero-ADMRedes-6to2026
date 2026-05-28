@@ -1,1 +1,3 @@
-# Romero-ADMRedes-6to2026
+# ADMINISTRACIÓN DE SISTEMAS Y REDES 2026
+## Romero Krawczyk Martín
+## 6°2 T.V 
